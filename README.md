@@ -13,7 +13,7 @@ The website contains the following sections:
 
 Download the .zip file and extract the contents from it. Load the entire folder into an editor of your choice such as Visual Studio Code.
 Ensure that node.js and npm are installed on your system.
-On the terminal type the following command:
+Open the terminal on VS code and type the following command:
 ```
 npm start
 
