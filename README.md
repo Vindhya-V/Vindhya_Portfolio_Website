@@ -20,6 +20,11 @@ npm start
 ```
 Open localhost:3000 to view it in your browser.
 
+## Here's a preview of the Website
+
+![pic](https://github.com/Vindhya-V/Vindhya_Portfolio_Website/assets/113531189/68b14ada-a4e0-4d2d-806f-7014e06ea7e7)
+
+
 
 
 
