@@ -18,7 +18,8 @@ Open the terminal on VS code and type the following command:
 npm start
 
 ```
-
+## Here's a preview of the Website
+![Screenshot](pic.png)
 
 
 
