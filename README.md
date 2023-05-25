@@ -19,7 +19,9 @@ npm start
 
 ```
 ## Here's a preview of the Website
-![Screenshot](pic.png)
+<div align="center">
+    <img src="pic.png" width="400px"</img> 
+</div>
 
 
 
