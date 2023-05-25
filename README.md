@@ -18,13 +18,9 @@ Open the terminal on VS code and type the following command:
 npm start
 
 ```
+
 ## Here's a preview of the Website
-<div align="center">
-    <img src="pic.png" width="400px"</img> 
-</div>
-
-
-
+![pic](https://github.com/Vindhya-V/Vindhya_Portfolio_Website/assets/113531189/24ba3a42-29d6-4481-8199-9f7308de0455)
 
 
 
